@@ -20,7 +20,7 @@ output:
 
 # MTL Live Session 01
 
-## Today, we're modeling to learn how to align our team vision.
+## Today, we're modeling To learn how to align our team vision.
 
 ## Done and Do (15 minutes)
 <!-- Done and Do Table -->
@@ -58,7 +58,7 @@ d. **Compile a team list.**
   - The learner had choices, shared authority, control, and responsibility.
   - The learner learned from and taught others.
   - The learner had the support he or she needed.
-  - The learning was individualized. If there were standards for the work, the learner could meet them in his or her own way.
+  - The learning was individualized? If there were standards for the work, the learner could meet them in his or her own way?
   - It was fun or left the learner feeling good.
   - The experience helped the learner understand him- or herself.
   - The learner experienced success and accomplishment with challenging work.
@@ -77,7 +77,7 @@ b. Now picture the team learning over the next 6 months in a **‘best-case’ s
 
 **c. How is VA data used?**
 
-**d. How are decisions, plans and changes made?**
+**d. How are decisions, plans & changes made?**
 
 ### 4. Review together with the Team.
 
@@ -120,7 +120,7 @@ Overall "_Modeling to Learn_" objectives include activities and competencies tha
    - Attention to detail; and
    - Commitment to process improvement and the use of data to improve care.
 
-## Done and Do (15 minutes)
+## Done & Do (15 minutes)
 
 <!-- Done and Do Table -->
 | [<img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/done.png" height = "80" width = "80">](#DontLink) **Done** | [<img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/do.png" height = "90" width = "90">](#DontLink) **Do** |
